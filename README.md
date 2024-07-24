@@ -1,1 +1,2 @@
-# angry-kings
+# ANGRY KINGS
+Honest scoreboard
